@@ -1,0 +1,8 @@
+.orchestrated-blocks-feature-block .components-panel__row {
+  flex-direction: column;
+}
+
+.orchestrated-blocks-feature-block .components-base-control {
+  width: 100%;
+  margin-bottom: 10px;
+}
